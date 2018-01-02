@@ -31,7 +31,7 @@ If you need any help please either read the help file included with all releases
 
 ## Features
 * Translated to French, Polish, Slovene, Czech, English, German, Russian. More coming!
-* Detect and quietly Windows Store apps
+* Detect and quietly uninstall Windows Store apps
 * Detect and quietly uninstall Steam Apps
 * Uninstall multiple items at once to speed up the process (with collision prevention)
 * Uninstall any number of applications in a single batch
